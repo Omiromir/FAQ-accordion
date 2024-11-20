@@ -86,7 +86,7 @@ svg {
 .accordion button .accordion-title {
     display: inline-block;
     font-size: 1.15rem;
-    padding: 1em 1.5em 1em 0;
+    padding: 1em 1.5em 0 0;
 }
 
 .accordion button .accordion-icon {
